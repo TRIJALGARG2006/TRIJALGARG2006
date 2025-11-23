@@ -10,8 +10,5 @@
 <div>
 
 
-![](https://img.shields.io/github/followers/09hrick?label=follow&logo=github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/09hrick?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=09hrick&style=flat-square&color=ff69b4)
 
 </div>
